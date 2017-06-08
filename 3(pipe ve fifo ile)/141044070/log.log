@@ -1,0 +1,18 @@
+yy.txt: [1, 1] found  'oto' first character
+yy.txt: [1, 3] found  'oto' first character
+xx.txt: [1, 1] found  'oto' first character
+xx.txt: [1, 3] found  'oto' first character
+k.txt: [1, 1] found  'oto' first character
+k.txt: [1, 3] found  'oto' first character
+k.txt: [1, 5] found  'oto' first character
+k.txt: [1, 7] found  'oto' first character
+c.txt: [1, 1] found  'oto' first character
+c.txt: [1, 4] found  'oto' first character
+c1.txt: [1, 1] found  'oto' first character
+c2.txt: [1, 1] found  'oto' first character
+c2.txt: [1, 8] found  'oto' first character
+c2.txt: [1, 10] found  'oto' first character
+y.txt: [18, 1] found  'oto' first character
+y.txt: [18, 3] found  'oto' first character
+x.txt: [1, 1] found  'oto' first character
+17 'oto' were founded
